@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="$USER_HOME$/workspace/jeu-de-role/jeu-de-role/bin/phpcs" />
+      <PhpCSConfiguration max_messages_per_file="80" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Symfony2;Zend" tool_path="/usr/bin/phpcs" />
     </phpcs_settings>
   </component>
 </application>
