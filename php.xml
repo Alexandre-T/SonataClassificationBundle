@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration tool_path="$USER_HOME$/workspace/jeu-de-role/jeu-de-role/bin/phpcs" />
     </phpcs_settings>
   </component>
 </application>
