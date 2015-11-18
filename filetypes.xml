@@ -6,6 +6,7 @@
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="travis" type="YAML" />
+      <mapping ext="appveyor" type="YAML" />
     </extensionMap>
   </component>
 </application>
