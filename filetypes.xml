@@ -5,6 +5,7 @@
       <mapping ext="dist" type="XML" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
+      <mapping ext="travis" type="YAML" />
     </extensionMap>
   </component>
 </application>
