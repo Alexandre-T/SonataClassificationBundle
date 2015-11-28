@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="lock" type="JSON" />
+      <mapping pattern="*.php.cache" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dist" type="XML" />
       <mapping ext="xliff" type="XML" />
