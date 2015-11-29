@@ -69,4 +69,7 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.phpunit.de/4.1/phpunit.xsd" location="$USER_HOME$/.WebIde100/system/extResources/5ddf74fe_phpunit.xsd" />
+  </component>
 </application>
