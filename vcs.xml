@@ -24,6 +24,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/phpBB/ext/alexandret/" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/phpBB/phpBB/ext/alexandret/" />
   </component>
 </application>
