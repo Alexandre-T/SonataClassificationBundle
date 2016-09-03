@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/Alexandre-T/seometa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alexandre-T/seo-description.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/phpBB/phpBB/ext/alexandret/" />
